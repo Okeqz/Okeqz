@@ -1,5 +1,4 @@
-![Alt text](https://github.com/Okeqz/Okeqz/blob/main/Black%20Gold%20Minimalist%20Elegant%20Business%20LinkedIn%20Banner.png?raw=true)
-
+![Alt text](https://github.com/Okeqz/Okeqz/blob/main/Analyst.png?raw=true)
 👋 Hi there! I'm Oke Queen, a passionate Data Analyst with a keen eye for uncovering insights from data. I specialize in SQL, Python, Power BI, and Tableau, using data-driven approaches to solve real-world problems.
 
 💡 I love working with data cleaning, visualization, and statistical analysis, helping businesses make informed decisions.
