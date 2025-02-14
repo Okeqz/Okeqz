@@ -1,4 +1,4 @@
-#🚀 About Me
+
 👋 Hi there! I'm Oke Queen, a passionate Data Analyst with a keen eye for uncovering insights from data. I specialize in SQL, Python, Power BI, and Tableau, using data-driven approaches to solve real-world problems.
 
 💡 I love working with data cleaning, visualization, and statistical analysis, helping businesses make informed decisions.
