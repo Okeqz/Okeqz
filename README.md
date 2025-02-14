@@ -5,8 +5,11 @@
 #🔧 Skills & Tools
 
 Languages: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
+
 Data Visualization: Tableau, Power BI, Matplotlib, Looker Studio.
+
 Databases: MySQL, PostgreSQL, BigQuery
+
 Other: Excel, A/B Testing
 
 📊 Featured Projects
