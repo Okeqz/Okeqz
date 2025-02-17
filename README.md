@@ -10,20 +10,16 @@ Data Visualization: Tableau, Power BI, Matplotlib, Looker Studio.
 
 Databases: MySQL, PostgreSQL, BigQuery
 
-Other: Excel, A/B Testing
-
-## 📊 Featured Projects  
-🔹 Sales Performance Dashboard – Built an interactive Tableau dashboard analyzing sales trends.  
-🔹 SQL Data Exploration – Queried a large customer database to extract business insights.  
-🔹 Python Data Cleaning – Used Pandas to preprocess messy data for analysis.
+Other: Excel, A/B Testing  
 
 Welcome to my portfolio, where I showcase my projects.
 
+## 📊 Featured Projects  
+🔹 Sales Performance Dashboard – Built an interactive PowerBI dashboard analyzing sales trends.  
+🔹 SQL Data Exploration – Queried a large customer database to extract business insights.  
+🔹 Python Data Analysis – Used Pandas to preprocess data for analysis.
+
+
+
 📬 Let's Connect!
 💼 LinkedIn | ✉️ Email
-
-👋🏻 Connect with Me
-
-Linkedin
-
-Hire me on Upwork
