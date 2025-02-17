@@ -12,7 +12,7 @@ Databases: MySQL, PostgreSQL, BigQuery
 
 Other: Excel, A/B Testing
 
-📊 Featured Projects
+## 📊 Featured Projects  
 🔹 Sales Performance Dashboard – Built an interactive Tableau dashboard analyzing sales trends.  
 🔹 SQL Data Exploration – Queried a large customer database to extract business insights.  
 🔹 Python Data Cleaning – Used Pandas to preprocess messy data for analysis.
