@@ -2,7 +2,7 @@
 👋 Hi there! I'm Queen, a passionate Data Analyst with a keen eye for uncovering insights from data. I specialize in data analysis and reporting, query optimization, database design, and data modelling., using data-driven approaches to solve real-world problems.
 
 
-#🔧 Skills & Tools
+## 🔧 Skills & Tools
 
 Languages: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
 
